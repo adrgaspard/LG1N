@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfIServeur xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="1" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/Core">
+  <IServeur z:Id="2">
+    <GuildID>593087279950725150</GuildID>
+    <Langue>FR</Langue>
+    <Parties z:Id="3">
+      <IPartie z:Id="4">
+        <GuildID>593087279950725150</GuildID>
+        <Channel>593188179046170625</Channel>
+        <Automatique>true</Automatique>
+      </IPartie>
+    </Parties>
+    <PartieVocale i:nil="true" />
+    <Compositions z:Id="5" />
+    <RangsAdministrateur xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="6">
+      <d3p1:unsignedLong>593089612583403547</d3p1:unsignedLong>
+    </RangsAdministrateur>
+    <RangsStaff xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" z:Id="7">
+      <d3p1:unsignedLong>593089729457553442</d3p1:unsignedLong>
+    </RangsStaff>
+    <JoueursKick z:Id="8" />
+  </IServeur>
+</ArrayOfIServeur>
